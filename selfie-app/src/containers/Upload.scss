@@ -1,0 +1,10 @@
+.upload-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .ant-spin-spinning {
+    margin-top: 16px;
+  }
+}

@@ -1,0 +1,18 @@
+//Steps
+
+
+----------------start nodejs with express server-------------------------
+//server is running on (http://localhost:5000)
+
+1. Locate to ".../server" directory
+2. npm install
+3. npm start
+
+
+------------------start client(APP)--------------------------------------
+//app is running on (http://localhost:3000)
+
+1. locate to ".../selfie-app" directory
+2. npm install
+3. npm start
+

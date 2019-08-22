@@ -1,0 +1,17 @@
+.camera-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+
+  .ant-btn.ant-btn-primary {
+    bottom: 15%;
+    position: absolute;
+  }
+
+  .ant-btn-circle, .ant-btn-circle-outline {
+    height: 50px;
+    width: 50px;
+  }
+}
